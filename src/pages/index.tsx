@@ -17,8 +17,16 @@ function HomepageHeader() {
             <img src="/img/the-infinite-loop.png" />
           </div>
           <div className="col col--8">
-            <h1 className="hero__title">{siteConfig.title}</h1>
-            <h2>{siteConfig.tagline}</h2>
+            <h1 className="hero__title">
+              Stop failed agile implementations from making your digital product
+              teams miserable and setting your organisation up for failure
+            </h1>
+            <h2>
+              Create a culture of trust, ownership, and data-driven continuous
+              experimentation that fosters sustainable product-led growth and
+              high-performance digital product teams that can thrive in the age
+              of disruption
+            </h2>
             <div className="buttons">
               <Link
                 className="button button--primary button--lg"

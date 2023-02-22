@@ -6,10 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title:
-    "Stop failed agile implementations from making your digital product teams miserable and setting your organisation up for failure",
+  title: "The Infinite Loop",
   tagline:
-    "Create a culture of trust, ownership, and data-driven continuous experimentation that fosters sustainable product-led growth and high-performance digital product teams that can thrive in the age of disruption.",
+    "An Agile software development methodology designed to help technology businesses create a culture of trust, ownership, and data-driven continuous experimentation that fosters sustainable product-led growth and high-performance digital product teams that can thrive in the age of disruption",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -68,11 +67,11 @@ const config = {
       // Replace with your project's social card
       image: "img/social-card.jpg",
       announcementBar: {
-        id: 'support_us',
+        id: "support_us",
         content:
           '🚧 Please note that this site is under construction. Please join our <a href="https://discord.gg/QJX6kWvxWP">Discord channel</a> to share your feedback.',
-        backgroundColor: 'yellow',
-        textColor: '#091E42',
+        backgroundColor: "yellow",
+        textColor: "#091E42",
         isCloseable: false,
       },
       navbar: {
