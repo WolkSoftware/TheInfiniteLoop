@@ -1,0 +1,119 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #ef00d0;
+  --ifm-color-primary-dark: #ff31e4;
+  --ifm-color-primary-darker: #ff35e5;
+  --ifm-color-primary-darkest: #ff57e9;
+  --ifm-color-primary-light: #ff79ed;
+  --ifm-color-primary-lighter: #ff8af0;
+  --ifm-color-primary-lightest: #ffbef6;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #ef00d0;
+  --ifm-color-primary-dark: #ff31e4;
+  --ifm-color-primary-darker: #ff35e5;
+  --ifm-color-primary-darkest: #ff57e9;
+  --ifm-color-primary-light: #ff79ed;
+  --ifm-color-primary-lighter: #ff8af0;
+  --ifm-color-primary-lightest: #ffbef6;
+  --ifm-card-background-color: #3b0083;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme='dark'] {
+  --ifm-background-color: transparent;
+  --ifm-navbar-background-color: #1e1656;
+  --ifm-button-color: white;
+  background: linear-gradient(90deg, #3b0083, #1e1656 50%);
+  background-size: contain;
+}
+
+html[data-theme='dark'] input[type='email'] {
+  background: white;
+  border-radius: 5px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  color: var(--ifm-color-emphasis-200);
+}
+
+.footer--dark,
+.footer--light {
+  --ifm-footer-background-color: transparent;
+  background: linear-gradient(90deg, #3b0083, #1e1656 50%);
+}
+
+.button svg {
+  margin-right: 5px;
+  margin-bottom: -4px;
+}
+
+.hero__subtitle {
+  font-size: 16px;
+}
+
+.footer {
+  padding-top: 80px;
+  margin-top: 10rem;
+}
+
+.buttons {
+  display: flex;
+  align-items: left;
+  flex-wrap: wrap;
+}
+
+.buttons a,
+.buttons button {
+  margin-right: 0.5rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.navbar {
+  justify-content: center;
+}
+
+.navbar__inner {
+  max-width: var(--ifm-container-width-xl);
+}
+
+.section {
+  padding-top: 5rem;
+}
+
+h1 {
+  color: #47d5cd;
+}
+
+.nolist {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.ReactModal__Overlay {
+  z-index: 999;
+  background-color: rgba(71, 213, 205, 0.5) !important;
+}
+
+.modal-content {
+  padding: 2rem;
+}
+
+.modal-content input {
+  margin: 0 0 var(--ifm-paragraph-margin-bottom);
+}
+
+.modal-content input[type='email'] {
+  padding: 0.5rem;
+  margin-left: 1rem;
+  width: 50%;
+}
