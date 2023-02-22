@@ -39,7 +39,7 @@ const SubscribeModal: React.FC<ModalProps> = ({ isOpen, onRequestClose }) => {
             <img src="/img/book.png" />
           </div>
           <div className="col col--8">
-            <h1>Get Notified When The Infinite Loop becomes available!</h1>
+            <h1>Get notified when The Infinite Loop becomes available!</h1>
             <h2>
               Thank you for your interest! We're sorry, but The Infinite Loop is
               not available yet. Rest assured, we're working hard to bring you
