@@ -285,7 +285,7 @@ export default function Book(): JSX.Element {
   const closeModal = () => setIsModalOpen(false);
   return (
     <Layout
-      title={siteConfig.title}
+      title="The only book you need to learn everything about The Infinite Loop and empower your digital product teams to thrive"
       description={siteConfig.tagline}
     >
       <BookHeader onRequestOpen={openModal} />

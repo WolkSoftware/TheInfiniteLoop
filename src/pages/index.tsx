@@ -53,7 +53,7 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={siteConfig.title}
+      title="An Agile software development methodology for the age of disruption"
       description={siteConfig.tagline}
     >
       <HomepageHeader />
