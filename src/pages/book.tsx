@@ -187,7 +187,7 @@ export function AboutTheBook(props: AboutTheBookProps): JSX.Element {
             </h2>
             <ul className="nolist">
               <li>
-                <h2>Part I: Operational issues</h2>
+                <h2>Part I: Methodology issues</h2>
                 <h3>
                   Takes you through the evolution of software methodologies and
                   other relevant software development principles over the last
