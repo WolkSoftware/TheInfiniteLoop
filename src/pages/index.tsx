@@ -53,7 +53,7 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title="An Agile software development methodology for the age of disruption"
+      title="Stop failed agile implementations from making your digital product teams miserable and setting your organisation up for failure"
       description={siteConfig.tagline}
     >
       <HomepageHeader />
