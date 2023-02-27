@@ -27,7 +27,7 @@ Scrum can be summarised as follows:
 
 :::tip
 
-You can learn more about Scrume by reading the gide at [Atlassian](https://www.atlassian.com/agile/scrum).
+You can learn more about Scrum by reading the guide at [Atlassian](https://www.atlassian.com/agile/scrum).
 
 :::
 
@@ -37,12 +37,21 @@ You can learn more about Scrume by reading the gide at [Atlassian](https://www.a
 >
 > — Jef Raskin
 
-The best thing about Scrum is that it facilitated the mainstream adoption of agile and managed to "kill" Waterfall. Scrum helped businesses embrace the idea of planning being something that adheres to the "law of diminishing returns". At first, planning seems to improve things, but there is a point at which investing more in planning fails to provide any meaningful returns.
+Moving businesses away from the Waterfall mindset was a big challenge (to a certain extent, it is still a big challenge today), but Scrum (1995) managed to "kill" Waterfall and achieve mainstream adoption by providing organisations with a clear path to adoption, including extensive documentation, certifications, case studies, etc. This ease of adoption gave organisations the confidence necessary for mainstream adoption.
 
-Some of the worst things about Scrum include the following:
+While Scrum helped to improve things, It also presented multiple problems:
 
-- Whether we like it or not, the reality of building software products is that there will always be a high level of unknowns that cannot be resolved by planning or estimating. The only way to resolve these unknowns is through discovery or experimentation (e.g. development of a prototype). While Scrum is highly prescript, it fails to establish a formal "discovery" phase. Scrum also failed to encourage user-centric design explicitly. 
+- **Too easy to bastardise it into “mini-waterfall”**. Scrum emphasis in time-boxes (Sprints), estimates (Story points) and output-based metrics (burn-down charts) encourage organisations to emphasise outputs over outcomes subconsciously. The time-box nature of the Sprints makes Scrum too easy to bastardise into “mini-waterfall” iterations by weak leadership.
 
-- Some of Scrum's metrics, such as burn-down charts and rules (such as the time-boxed nature of the Sprints), encourage organisations to emphasise outputs over outcomes subconsciously, leading to decreased quality.
+- **Unrealistic management of unknowns**. Scrum failed to establish an explicit "discovery" phase. The way Scrum mitigates risks (unknowns) is by using time-boxes (Sprints). We know that estimates (Story points) in software are notoriously inaccurate; the longer the project, the more inaccurate the estimate will be. Scrum uses sprints to reduce the inaccuracy of our estimates. We can not eliminate inaccurate estimates. A more realistic approach is to embrace uncertainty through discovery or experimentation instead of pretending that estimates are an antidote for uncertainty.
 
-- The combination of Scrum's emphasis time-boxes (Sprints) and estimates and the historical background that preceded it (Waterfall) made Scrum too easy to bastardise into mini-waterfall iterations by the executive teams in many organisations.
+- **Leads to a downward spiral of failure**. Despite knowing that estimates in software are inaccurate by nature, Scrum teams often try to fill the story point capacity of each team member during the Sprint, leaving no room for mistakes. When estimation errors inevitably occur, the team has to compensate by changing the scope, increasing capacity, or changing the deadline. Brooks's law tells us that increasing capacity often leads to more issues, and management often rejects changing the deadline or the scope. Often the only option becomes to take shortcuts and introduce unsustainable levels of technical debt. In future sprints, the technical debt caused further estimation mistakes, introducing even more technical debt. Pressure and frustration ramp up; some employees experience stress, anxiety and even burnout. The best developers leave, and the entire project starts to collapse gradually; the team becomes a low-performance team and enters the dreadful cycle of employee ill-being, low engagement, low motivation, unproductivity and failure.
+
+:::info
+
+Brook's law is an observation about software project management, according to which adding manpower to a software project that is behind schedule delays it even longer. It was coined by Fred Brooks in his 1975 book The Mythical Man-Month.
+
+::: 
+
+- **Leads to low-performance teams**. Sprints are often considered a failure when not all story points in a Sprint are delivered. Even if most of the story points were delivered or if the team worked as hard as possible. This can lead to frustration, low morale, and low engagement, ultimately leading to low-performance teams.
+

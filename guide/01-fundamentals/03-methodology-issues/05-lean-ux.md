@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: Lean UX is a mindset, culture, and a process that embraces Lean-Agile methods that implements functionality in minimum viable increments and determines success by measuring results against a benefit hypothesis.
 ---
 
 # Lean UX (2008)

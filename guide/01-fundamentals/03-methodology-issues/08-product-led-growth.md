@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: Product-led growth (PLG) is a business methodology in which user acquisition, expansion, conversion, and retention are all driven primarily by the product itself.
 ---
 
 # Product-led growth (2016)

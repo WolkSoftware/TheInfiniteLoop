@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: The Infinite Loop is an Agile software development methodology inspired by the open-source community and designed to help technology businesses create a culture of trust, ownership, and data-driven continuous experimentation.
 ---
 
 # What is The Infinite Loop (L∞P)?

@@ -1,12 +1,13 @@
 ---
 sidebar_position: 4
+description: In 2001, 17 renowned software developers met at a resort in Snowbird, Utah, to discuss lightweight development methods. Together they published the Manifesto for Agile Software Development.
 ---
 
 # The Agile Manifesto (2001)
 
 ## The basics
 
-After many years of failed waterfall software projects, 17 renowned software developers met at a resort in Snowbird, Utah, to discuss lightweight development methods. Together they published the Manifesto for Agile Software Development.
+In 2001, 17 renowned software developers met at a resort in Snowbird, Utah, to discuss lightweight development methods. Together they published the Manifesto for Agile Software Development.
 
 Based on their combined experience of developing software and helping others do that, the authors of The Agile Manifesto declared that they valued:
 

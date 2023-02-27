@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: L∞P's purpose is to improve the well-being of professionals in the software industry by creating a work in an environment that makes them feel trusted, empowered, engaged, productive and valued.
 ---
 
 # What is the purpose of L∞P?

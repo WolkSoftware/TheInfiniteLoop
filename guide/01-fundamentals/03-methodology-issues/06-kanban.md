@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: Kanban is a visual framework for managing and tracking work items in software development. It emphasizes small, incremental changes and limiting work in progress to optimize workflow.
 ---
 
 # Kanban (2010)
@@ -28,10 +29,16 @@ The following list includes the main principles of Kanban:
 
     - **Cycle time**: is the time it takes for a work item to move through the entire process, from start to finish.
 
+:::tip
+
+You can learn more about Kanban by reading the guide at [Monday.com](https://monday.com/blog/project-management/kanban/).
+
+:::
+
 ## Pros and cons
 
-The best thing about Kanban is that it introduces the idea of reinforcing focus by limiting work in progress and removing time boxes, leading to increased quality.
+The best thing about Kanban is that it introduces the idea of reinforcing focus by limiting work in progress and removing time boxes, leading to better productivity, quality and agility.
 
-Like Lean UX, the bad thing about Kanban is that it is also harder to implement than Scrum. Scrum has a more prescriptive framework and a stronger focus on Agile principles, which can make it more appealing for organisations looking to adopt Agile practices. Scrum also has a well-established certification process and training offerings, which can help organisations adopt and implement the methodology more effectively.
+Like Lean UX, the bad thing about Kanban is that it is also harder to implement than Scrum. Scrum has a more  structured framework with specific roles, events, and artifacts that help orgnisations adopt Scrum with ease. Scrum also has a well-established certification process and training offerings, which can help organisations adopt and implement the methodology more effectively.
 
 Another potential problem with Kanban is that its focus on metrics like cycle and lead time can reinforce the idea of outputs over outcomes. Leading to reduced customer value and decreased quality.

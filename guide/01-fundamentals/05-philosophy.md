@@ -10,19 +10,26 @@ In this section, we will share what we believe are the root causes of the ineffi
 
 Answering this question is a big challenge. Our collective failures cannot be attributed to a single cause. The following list contains the main reasons I believe are preventing our industry from achieving a greater rate of success:
 
-- **The success of Scrum is holding us back:** Scrum has done many good things for our industry, but, at this point, it is probably holding us back. If Scrum got one thing right, it is, without a doubt, its ease of use. The combination of being highly prescript and having extensive documentation and certifications gives organisations enough confidence to choose Scrum.
+- **The success of Scrum is holding us back:** Scrum has done many good things for our industry, but, at this point, it is probably holding us back. Many organizations use Scrum to describe themselves as Agile despite a total lack of agility and disastrous implementations of Scrum.
 
-- **Leadership is not leading the cause:** One of the reasons the leadership teams across many organisations like Scrum is that it strongly emphasises time boxes and estimates:
+  Many Scrum professionals argue that these failures are due to a lack of understanding or weak leadership, not the methodology itself. However, it is time to acknowledge the mainstream nature of failed implementations of Scrum as an indicator of something fundamentally wrong with Scrum.
 
-  - **Estimation and planning are valued more than discovery:** The leadership team often says they are fully committed to making the organisation more Agile. Still, the reality is that they can't let go of their old Waterfall ways.
+  The outcomes of the Software industry could have been better if Scrum had been versioned and upgraded. I would love to have something called "Scrum 2023" that introduced changes such as "story points are now deprecated".
 
-  - **Lack of trust and ownership:** The leadership team doesn't fully trust the product team and fails to provide the team with the level of ownership that it deserves. The leadership team uses the stand-up meetings as status reports and deadlines to mitigate their lack of trust.
+  The time for a new software development methodology has arrived. As we have already learned,  according to the Standish Group's CHAOS Report, the success rate of software projects increased between 1994 and 2015 but has decreased since 2015. The main reason behind this decreased may be that Scrum is now failing to cope with the increasing complexity of software. Organizations prefer sticking with broken Scrum implementations over trying something new because cultural transformations are risky and expensive, but broken Scrum implementations are making software professionals feel disengaged and miserable. It is time we demand our organizations ditch Scrum.
 
-- **Metrics & practices that fail to reinforce principles:** You have to be careful with what you measure. If you measure something, the entire organisation will change how it operates to hit the desired metrics. One of the main problems of Scrum is using practices, such as time boxes (Sprints), that enforce delivery dates and metrics, such as the Burndown charts that measure the amount of work remaining to be completed over time and helps track progress towards the project completion. The main problem is that completing many tasks doesn't necessarily mean that we are delivering value to customers. The pressure to deliver more increases, and we no longer have time to deal with technical debt. The development team burns out, and the best developers quit, making the lives of the developers that stay even more miserable. Finally, the accumulated technical debt makes delivering value impossible, and the business loses against the competition. Our metrics and practices fail to reinforce our principles and often go against them. We need to use metrics and practices that strengthen and promote outcome-oriented behaviours instead of output-oriented ones.
+- **Leadership is not leading the cause:** The leadership team often says they are fully committed to making the organisation more Agile. Still, the reality is that they can't let go of their old Waterfall ways:
 
-- **Sales and marketing are setting the product team up for failure:** The sales and marketing teams often make unrealistic promises when the organisation fails to deliver value and customer acquisition and retention starts to struggle. The product team is tasked with an impossible mission that leads to further disappointment, increased technical debt and lower quality.
+  - **Lack of a clear vision and mission**
+  - **Lack of trust**
+  - **Estimation and planning are valued more than discovery** 
+  - **Outputs are valued over outcomes**
 
-- **Technology should be a tool, not a goal:** Many developers often feel pain in their jobs when technical debt reaches critical levels. The problem is that technical debt is not a disease but a symptom. A series of factors cause technical debt, but the most significant is time pressure. Time pressure itself is often the result of unhappy customers. Sometimes fixing technical debt is a waste of time because as long as we don't cure the disease, we will continue to create unsustainable levels of technical debt. What is the disease? In most cases, the disease is a leadership/culture that focuses on outputs over outcomes.
+- **Metrics & practices that fail to reinforce principles:** You have to be careful with what you measure. If you measure something, the organisation's members will change how it operates to hit the desired metrics. Our metrics and practices fail to reinforce our principles and often go against them. We must use metrics and practices that strengthen and promote outcome-oriented behaviours instead of output-oriented ones.
+
+- **Sales and marketing are setting the product team up for failure:** The sales and marketing teams often make unrealistic promises when the organization fails to deliver value, and customer acquisition and retention start to suffer. The product team is tasked with an impossible mission that leads to further disappointment, increased technical debt and lower quality.
+
+- **Technology should be a tool, not a goal:** Seeing technology as a goal (not a tool) is a symptom of a lack of pragmatism.
 
 ## How do we fix this?
 
@@ -40,7 +47,7 @@ The following list contains some of the main actions I believe we must take to s
 
   - Increase ownership and remove silos to achieve agility (The three ways)
 
-   - Align the sales, marketing and product teams (Product-led)
+  - Align the sales, marketing and product teams (Product-led)
 
 - **No need to reinvent the wheel:** The new software development methodology should pick and use some of the components from previous software development methodologies. We shouldn't need to come up with a completely revolutionary set of artefacts, ceremonies and roles. I acknowledge that there is a risk of confusion by reusing some components. Still, at the same time, familiarity could facilitate adoption, and nothing will change without adoption.
 
@@ -52,7 +59,7 @@ The following list contains some of the main actions I believe we must take to s
 
   - Provide employees with the resources and authority to make decisions and solve problems independently 
 
-   - Providing flexible work arrangements
+  - Providing flexible work arrangements
 
 - **Minimise disconnection between principles and practices** One of the main problems with Agile methodologies is that the leadership team doesn't fully commit to the Agile principles. Some of the artefacts and ceremonies in an software development methodology can sometimes be misinterpreted or lead us in the wrong direction. For example, if we use the Burndown chart as a core metric, we can become too focused on outputs and deadlines, sacrificing customer value and quality. There are three things that we can try to prevent this from happening:
 

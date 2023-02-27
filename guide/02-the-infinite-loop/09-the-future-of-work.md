@@ -17,3 +17,9 @@ Therefore, having a culture of high trust is crucial for effective remote work a
 ## A data-driven culture facilitates the adoption of AI
 
 Having a data-driven culture prepares organisations for the adoption of AI** by emphasising the importance of data collection, analysis, and informed decision-making. Organisations with a data-driven culture value data as a key asset and have processes in place for data management and analysis. This creates a foundation for successful AI implementation as AI relies on large amounts of accurate and high-quality data for training and decision-making. Additionally, a data-driven culture can foster a more analytical and evidence-based approach to problem-solving, making it easier for organisations to evaluate the potential impact and limitations of AI solutions.
+
+## A focus on employee well-being is a must to survive the war for talent
+
+A recent report from Korn Ferry Institute predicts that by 2030 the tech industry labor-skill shortage will reach 4.3 million (85 million worker shortfall for all skills), costing the global economy $8.5 trillion in unrealized annual revenues.
+
+As a result of the war for talent, employees will become less likely to tolerate workspaces that don't actively take action to improve the well-being of their employees. L∞P is ready for this as its purpose is to improve the well-being of professionals in the software industry.

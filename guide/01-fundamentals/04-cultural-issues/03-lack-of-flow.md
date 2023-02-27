@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Lack of flow
 
-One of the goals of L∞P is to encourage the creation of work environments that facilitate a flow state. A flow state, also known as being in the zone, is a highly productive state of mind where a person loses track of time and is entirely focused on their work. 
+A weak mission and vision and a lack of trust directly impact individual performance because they prevent individuals from entering a flow state. A flow state, also known as being in the zone, is a highly productive state of mind where a person loses track of time and is entirely focused on their work. 
 
 A flow state is considered ideal for achieving maximum productivity and is often sought after by individuals and organisations. However, the average person experiences a flow state only rarely because their work environment and culture can often prevent it from happening.
 
