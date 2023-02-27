@@ -37,7 +37,7 @@ function HomepageHeader() {
               </Link>
               <Link
                 className="button button--primary button--lg"
-                to="/guide/category/fundamentals"
+                to="/guidefundamentals/about"
               >
                 Learn more
               </Link>

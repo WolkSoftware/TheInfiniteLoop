@@ -182,36 +182,40 @@ export function AboutTheBook(props: AboutTheBookProps): JSX.Element {
             <h1 className="sectionTitle">About the book</h1>
             <h2>
               The Infinite Loop book provides extensive background information
-              and context to understand the methodology in-depth. The book has
-              three main parts:
+              and context to understand the The Infinite Loop in-depth.
             </h2>
-            <ul className="nolist">
-              <li>
-                <h2>Part I: Methodology issues</h2>
-                <h3>
-                  Takes you through the evolution of software methodologies and
-                  other relevant software development principles over the last
-                  three decades and examines why failed Agile implementations
-                  are so prevalent in the software industry.
-                </h3>
-              </li>
-              <li>
-                <h2>Part II: Cultural issues</h2>
-                <h3>
-                  Focuses on examining other significant causes of failed Agile
-                  implementations that are not explicitly connected to a given
-                  software development methodologies, such as lack of trust,
-                  lack of pragmatism and human biases.
-                </h3>
-              </li>
-              <li>
-                <h2>Part III: The Infinite Loop</h2>
-                <h3>
-                  Focuses on defining The Infinite Loop in detail, including its
-                  principles, rituals, artefacts and roles.
-                </h3>
-              </li>
-            </ul>
+            <h3>
+              The Infinite Loop is an Agile software development methodology
+              designed to help technology businesses create a culture of trust,
+              ownership, and data-driven continuous experimentation that fosters
+              sustainable product-led growth and high-performance digital
+              product teams that can thrive in the age of disruption.
+            </h3>
+            <h3>
+              The Infinite Loop book examines the mainstream presence of failure
+              and the widespread state of despair among professionals in the
+              software industry. You will learn about the evolution of software
+              development methodologies over the last few decades and other
+              relevant software development principles. You will learn about
+              their strengths and flaws and how these play a role in the
+              prevalence of failed Agile implementation.
+            </h3>
+            <h3>
+              You will also learn about the most common cultural issues (such as
+              lack of trust and lack of pragmatism) that contribute to creating
+              failed Agile implementations.
+            </h3>
+            <h3>
+              Furthermore, you will learn how failed Agile implementation
+              negatively impacts the overall software industry and the general
+              well-being of individual professionals.
+            </h3>
+            <h3>
+              Finally, the Infinite Loop book provides extensive background
+              information and context to understand the methodology in-depth,
+              including its principles, rituals, artefacts, metrics, roles and
+              scalability strategies.
+            </h3>
             <div className="buttons">
               <button
                 className="button button--primary button--lg"

@@ -114,6 +114,12 @@ h1 {
   width: 50%;
 }
 
+.card .text--truncate {
+  overflow: hidden;
+  text-overflow: inherit;
+  white-space: normal;
+}
+
 /* Mobile Devices */
 @media (max-width: 480px) {
   .hero__title {

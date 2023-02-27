@@ -68,7 +68,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      algolia: {
+        appId: 'G15FZ9E3EX',
+        apiKey: 'd49c7e7fa613466e3e436ce589c9d0b4',
+        indexName: 'infinite-loop',
+        contextualSearch: true,
+      },
       image: "img/social-card.jpg",
       announcementBar: {
         id: "support_us",
@@ -87,7 +92,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "/category/fundamentals",
+            docId: "fundamentals/about",
             position: "left",
             label: "Guide",
           },
@@ -120,7 +125,7 @@ const config = {
             items: [
               {
                 label: "Guide",
-                to: "/guide/category/fundamentals",
+                to: "/guidefundamentals/about",
               },
               {
                 label: "Book",
