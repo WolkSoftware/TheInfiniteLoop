@@ -20,7 +20,7 @@ export function Learn(): JSX.Element {
             <div className="buttons">
               <Link
                 className="button button--primary button--lg"
-                to="/guidefundamentals/about"
+                to="/guide/fundamentals/about"
               >
                 Read our guide
               </Link>
@@ -96,7 +96,7 @@ export function What(): JSX.Element {
             <div className="buttons">
               <Link
                 className="button button--primary button--lg"
-                to="/guidefundamentals/about"
+                to="/guide/fundamentals/about"
               >
                 Learn more
               </Link>

@@ -125,7 +125,7 @@ const config = {
             items: [
               {
                 label: "Guide",
-                to: "/guidefundamentals/about",
+                to: "/guide/fundamentals/about",
               },
               {
                 label: "Book",

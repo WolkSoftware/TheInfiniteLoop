@@ -6,7 +6,7 @@ sidebar_position: 1
 
 :::info
 
-We strongly recommend reading the [fundamentals section](/guidefundamentals/about) if you have not done it before getting started with this section.
+We strongly recommend reading the [fundamentals section](/guide/fundamentals/about) if you have not done it before getting started with this section.
 :::
 
 :::caution
