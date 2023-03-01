@@ -73,6 +73,7 @@ const config = {
         appId: 'G15FZ9E3EX',
         apiKey: 'd49c7e7fa613466e3e436ce589c9d0b4',
         indexName: 'infinite-loop',
+        contextualSearch: true,
       },
       image: "img/social-card.jpg",
       announcementBar: {
