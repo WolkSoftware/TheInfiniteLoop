@@ -17,19 +17,19 @@ Replaced by the Product Manager.
 Replaced by the Product Manager.
 
 ## 🟢 The Product Manager
-is a key role in this structure, taking on both the roles of product owner and scrum master. The Product Manager is responsible for leading the team and making decisions that impact the product, as well as ensuring that the product is delivered on time and within budget.
+The Product Manager is a key role in this structure, taking on both the roles of product owner and scrum master. The Product Manager is responsible for leading the team and making decisions that impact the product, as well as ensuring that the product is delivered on time and within budget.
 
 ## 🟢 Sales
-is another important role in the team, responsible for identifying and closing deals with potential customers. The Sales team works closely with the Product Manager to understand the customer needs and ensure that the product meets those needs.
+A sales representative is another important role in the team, responsible for identifying and closing deals with potential customers. The Sales team works closely with the Product Manager to understand the customer needs and ensure that the product meets those needs.
 
 ## 🟢 UX
-plays a crucial role in the product-led growth organisation, responsible for the design and usability of the product. The UX team works closely with the Product Manager and Engineering to ensure that the product is easy to use and meets the customer's needs.
+UX designers play a crucial role in the product-led growth organisation, responsible for the design and usability of the product. The UX team works closely with the Product Manager and Engineering to ensure that the product is easy to use and meets the customer's needs.
 
 ## 🟢 Architecture and Engineering
-work together to build and maintain the product, ensuring that it meets the technical requirements. The Architecture team is responsible for creating the blueprint for the product, while the Engineering team implements the design.
+Architecture and Engineering work together to build and maintain the product, ensuring that it meets the technical requirements. The Architecture team is responsible for creating the blueprint for the product, while the Engineering team implements the design.
 
 ## 🟢 Marketing
-is responsible for promoting the product to the customer, and is an integral part of the cross-functional team. The Marketing team works closely with the Product Manager and Sales to create a marketing strategy that aligns with the product goals and supports the product-led growth strategy.
+A marketing representative is responsible for promoting the product to the customer, and is an integral part of the cross-functional team. The Marketing team works closely with the Product Manager and Sales to create a marketing strategy that aligns with the product goals and supports the product-led growth strategy.
 
 :::info
 

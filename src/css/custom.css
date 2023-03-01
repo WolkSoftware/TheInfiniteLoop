@@ -30,6 +30,12 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+[data-theme='dark'] .DocSearch {
+  --docsearch-modal-background: var(--ifm-card-background-color);
+  --docsearch-footer-background: var(--ifm-card-background-color);
+  --docsearch-hit-background: #1e1656;
+}
+
 html[data-theme='dark'] {
   --ifm-background-color: transparent;
   --ifm-navbar-background-color: #1e1656;
