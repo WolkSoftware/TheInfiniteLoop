@@ -10,6 +10,7 @@ const config = {
   tagline:
     "An Agile software development methodology designed to help technology businesses create a culture of trust, ownership, and data-driven continuous experimentation that fosters sustainable product-led growth and high-performance digital product teams that can thrive in the age of disruption",
   favicon: "img/favicon.ico",
+  trailingSlash: true,
 
   // Set the production url of your site here
   url: "https://www.infinite-loop.org",
