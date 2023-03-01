@@ -72,7 +72,7 @@ const config = {
       algolia: {
         appId: 'G15FZ9E3EX',
         apiKey: 'fffbab52927d8a526c44efb95e25f874',
-        indexName: 'infinite-loop',
+        indexName: 'infinite-loop-index',
         contextualSearch: true,
       },
       image: "img/social-card.jpg",
