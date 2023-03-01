@@ -4,6 +4,16 @@ sidebar_position: 1
 
 # Weak mission and vision
 
+:::quote
+
+"Rules and regulations, laws and contracts, can never replace clarity of shared purpose and clear, deeply held principles about conduct in pursuit of that purpose." — Dee Hock
+
+:::
+
+> "Rules and regulations, laws and contracts, can never replace clarity of shared purpose and clear, deeply held principles about conduct in pursuit of that purpose."
+>
+> — Dee Hock
+
 True leaders should lead with context, not control. Providing context starts with sharing a strong mission and vision:
 
 A weak mission and vision may result in a lack of clarity and direction for employees. Without a clear sense of purpose and direction, employees may struggle to understand how their work contributes to the organization's overall goals. This lack of clarity can lead to confusion, frustration, and a sense of disconnection from the organization's mission, ultimately resulting in a lack of engagement.

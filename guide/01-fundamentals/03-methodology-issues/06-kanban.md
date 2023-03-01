@@ -29,7 +29,7 @@ The following list includes the main principles of Kanban:
 
     - **Cycle time**: is the time it takes for a work item to move through the entire process, from start to finish.
 
-:::tip
+:::info
 
 You can learn more about Kanban by reading the guide at [Monday.com](https://monday.com/blog/project-management/kanban/).
 

@@ -21,7 +21,7 @@ The following list contains some of the main principles of PLG:
 
 - **Continuous experimentation**: This principle emphasises the importance of continuous experimentation and improvement. Companies should continuously test new ideas, gather data, and iterate on their products to stay ahead of the curve and remain relevant to their customers.
 
-:::tip
+:::info
 
 You can learn more about PLG by reading the book *Product-Led Growth: How to Build a Product That Sells Itself* by Wes Bush. The book is available for free on the [Product-Led Growth website](https://productled.com/book).
 

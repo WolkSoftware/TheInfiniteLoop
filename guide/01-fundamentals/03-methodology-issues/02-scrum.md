@@ -25,7 +25,7 @@ Scrum can be summarised as follows:
 
 - At the end of the Sprint, the completed work (known as product increment) is released, and there is a meeting known as the Sprint retrospective that aims to identify ways to improve how the team operates over time.
 
-:::tip
+:::info
 
 You can learn more about Scrum by reading the guide at [Atlassian](https://www.atlassian.com/agile/scrum).
 

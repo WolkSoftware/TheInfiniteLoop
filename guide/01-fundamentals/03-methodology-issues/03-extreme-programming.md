@@ -17,7 +17,7 @@ Extreme programming follows the incremental approach to building products by usi
 
 XP shares key Agile principles such as end-user involvement in development tasks, good communication between team members, and iterative development cycles.
 
-:::tip
+:::info
 
 You can learn more about Extreme programming by reading the guide at [www.extremeprogramming.org](http://www.extremeprogramming.org).
 

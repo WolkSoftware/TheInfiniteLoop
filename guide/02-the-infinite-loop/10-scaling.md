@@ -55,3 +55,14 @@ The scope of a platform engineering team's responsibilities may vary depending o
 - Monitoring and optimising the performance of the platform and applications running on it.
 
 - Providing support and guidance to other teams that are building applications on the platform.
+
+
+## InnerSource
+
+InnerSource is a growing trend in high-performing engineering teams that adopt open-source processes to work and collaborate more effectively. When teams use InnerSource, they develop proprietary software and open up the work internally between teams so that everyone — from developers to product managers — can contribute to the source code.
+
+InnerSource is a software development strategy that applies open-source practices to proprietary code. InnerSource can help establish an open-source culture within an organization while retaining software for internal use. Teams use InnerSource to increase visibility, strengthen collaboration, and break down silos.
+
+By setting the default to open for internal projects within an organization, teams can reuse existing solutions, minimize redundancy, empower team collaboration, and leverage talent across the workforce.
+
+In large organizations and companies, development teams are often spread across different departments or time zones. Multiple developers may never meet or have access to the same departmental strategies. Innersource can help create a learning culture and encourage developers to collaborate across teams and departments, leading to more efficient communication and knowledge sharing. 

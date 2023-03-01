@@ -9,3 +9,9 @@ The role of the project manager (PM) is the most critical one in the product tea
 A PM must be smart, reactive, and persistent, with a deep respect for the product team. They should also be comfortable with using data and analytics tools to inform their decisions and drive the success of the product. The PM's main task is to ensure that only the most valuable work items reach the backlog, guiding the product team towards building solutions that deliver the greatest impact and customer value.
 
 In addition to the PM role, the PM is also often responsible for the product owner role, ensuring that the product backlog is always aligned with the product vision and strategy. They must have a strong understanding of customer needs and market trends, and be able to work closely with the development team to prioritise work items and drive the product forward.
+
+:::info
+
+Read [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) by Andreessen Horowitz to learn more about what should be expected of a PM.
+
+:::

@@ -9,7 +9,7 @@ description: The Waterfall is an software development methodology that uses a li
 
 The Waterfall is an software development methodology that uses a linear approach in which each phase must be completed before the next one can begin. The name "waterfall" comes from the idea of representing each stage as a "water dam". As we progress, the dam is filling. Only when the stage is complete can the water overflow and starts to fall into a "lower dam", representing the progress in the next stage.
 
-:::tip
+:::info
 
 You can learn more about Waterfall by reading *A complete guide to the Waterfall methodology in 2023*. The guide is available for free on the [Monday.com](https://monday.com/blog/project-management/waterfall-methodology/).
 

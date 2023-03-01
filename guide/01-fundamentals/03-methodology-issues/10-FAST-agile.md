@@ -10,7 +10,7 @@ sidebar_position: 10
 
 ::: 
 
-:::tip
+:::info
 
 You can learn more about FAST Agile by reading the official guide. The guide is available for free on the [FAST Agile](https://fluid.scaling.tech/fast-guide).
 

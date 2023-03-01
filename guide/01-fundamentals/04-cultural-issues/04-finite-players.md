@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Finite game players
 
-:::tip
+:::info
 
 You can learn more about Infinite Games by reading the book *The Infinite Game* by Simon Sinek. You can learn more about the book at [Simon Sinek's website](https://simonsinek.com//books/the-infinite-game/).
 
