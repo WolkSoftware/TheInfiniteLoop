@@ -4,12 +4,6 @@ sidebar_position: 1
 
 # Weak mission and vision
 
-:::quote
-
-"Rules and regulations, laws and contracts, can never replace clarity of shared purpose and clear, deeply held principles about conduct in pursuit of that purpose." — Dee Hock
-
-:::
-
 > "Rules and regulations, laws and contracts, can never replace clarity of shared purpose and clear, deeply held principles about conduct in pursuit of that purpose."
 >
 > — Dee Hock
