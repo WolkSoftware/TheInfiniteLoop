@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Addressing skepticism
+# Addressing scepticism
 
 Trying to convince your organisation's management team to do things such as eliminating estimates and deadlines may seem out of touch with reality. My problem with this reaction is that I have experienced first-hand what it is like to work under these principles.
 

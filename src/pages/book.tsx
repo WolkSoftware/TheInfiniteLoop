@@ -20,7 +20,6 @@ const SubscribeModal: React.FC<ModalProps> = ({ isOpen, onRequestClose }) => {
       bottom: "auto",
       marginRight: "-50%",
       transform: "translate(-50%, -50%)",
-      maxWidth: "60%",
       zIndex: 9999,
       background: "var(--ifm-card-background-color)",
       color: "var(--ifm-font-color-base)",
@@ -34,6 +33,9 @@ const SubscribeModal: React.FC<ModalProps> = ({ isOpen, onRequestClose }) => {
   return (
     <Modal isOpen={isOpen} onRequestClose={onRequestClose} style={customStyles}>
       <div className="modal-content">
+        <div className="modal-close">
+          <button onClick={onRequestClose}>ⓧ</button>
+        </div>
         <div className="row">
           <div className="col col--4">
             <img src="/img/book.png" />
@@ -65,7 +67,7 @@ const SubscribeModal: React.FC<ModalProps> = ({ isOpen, onRequestClose }) => {
                       value={value}
                       onChange={handleInputChange}
                       name="EMAIL"
-                      className="required email"
+                      className="required email modal-email"
                       id="mce-EMAIL"
                       required
                     />

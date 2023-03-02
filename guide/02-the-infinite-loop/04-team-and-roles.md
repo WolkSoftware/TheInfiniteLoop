@@ -4,7 +4,9 @@ sidebar_position: 4
 
 # L∞P's team & roles
 
-> "If you want to go fast, go alone; if you want to go far, go together" - African proverb
+> "If you want to go fast, go alone; if you want to go far, go together"
+> 
+> — African proverb
 
 L∞P tries to balance collaboration and working as a team, so we can attempt to achieve goals that are bigger than ourselves (go far) with focus and alone time so we can get into the zone and be super productive (go fast). When we work together, our goal should be to remove unknowns and enable autonomy; then, we can go our separate ways and get stuff done.
 
