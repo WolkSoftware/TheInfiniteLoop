@@ -27,7 +27,7 @@ Scrum can be summarised as follows:
 
 :::info
 
-You can learn more about Scrum by reading the guide at [Atlassian](https://www.atlassian.com/agile/scrum).
+You can learn more about Scrum by reading [The Scrum Guide](https://scrumguides.org/scrum-guide.html).
 
 :::
 
@@ -41,7 +41,7 @@ Moving businesses away from the Waterfall mindset was a big challenge (to a cert
 
 While Scrum helped to improve things, It also presented multiple problems:
 
-- **Too easy to bastardise it into “mini-waterfall”**. Scrum emphasis in time-boxes (Sprints), estimates (Story points) and output-based metrics (burn-down charts) encourage organisations to emphasise outputs over outcomes subconsciously. The time-box nature of the Sprints makes Scrum too easy to bastardise into “mini-waterfall” iterations by weak leadership.
+- **Too easy to bastardise it into “mini-waterfall”**. Scrum emphasis in time-boxes (Sprints), estimates (Story points) and output-based metrics (burn-down charts) encourage organisations to emphasise outputs over outcomes subconsciously. The time-box nature of the Sprints makes Scrum too easy to bastardise into “mini-waterfall” iterations by weak leadership. 
 
 - **Unrealistic management of unknowns**. Scrum failed to establish an explicit "discovery" phase. The way Scrum mitigates risks (unknowns) is by using time-boxes (Sprints). We know that estimates (Story points) in software are notoriously inaccurate; the longer the project, the more inaccurate the estimate will be. Scrum uses sprints to reduce the inaccuracy of our estimates. We can not eliminate inaccurate estimates. A more realistic approach is to embrace uncertainty through discovery or experimentation instead of pretending that estimates are an antidote for uncertainty.
 
@@ -53,5 +53,10 @@ Brook's law is an observation about software project management, according to wh
 
 ::: 
 
-- **Leads to low-performance teams**. Sprints are often considered a failure when not all story points in a Sprint are delivered. Even if most of the story points were delivered or if the team worked as hard as possible. This can lead to frustration, low morale, and low engagement, ultimately leading to low-performance teams.
+- **Can lead to low-morale in teams**. Sprints are often considered a failure when not all story points in a Sprint are delivered. Even if most of the story points were delivered or if the team worked as hard as possible. This can lead to frustration, low morale, and low engagement, ultimately leading to low-performance teams.
 
+:::note
+
+Story points are not part of Scrum. However, the usage of Story points is mainstream in the industry. Many organisations use Story points as a result Sprints being a timebox. Sprints give uou have a limited amount of time (e.g. two weeks) to deliver a certain amount of work. We know the amount of time, but we need to estimate the amount of work. The only way to estimate the amount of work is to use a unit of measure. The most common unit of measure is story points. The real problem is the Sprint, not the estimates. If we remove Sprints, we remove the need for Story points or any other estimation method.
+
+:::

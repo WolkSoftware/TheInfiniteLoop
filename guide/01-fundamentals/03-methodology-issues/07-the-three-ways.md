@@ -38,6 +38,12 @@ Developing and fostering a culture where constant experimentation and learning a
 - Transform local discoveries into global improvements.
 - Make anti-fragility a habit.
 
+:::info
+
+You can learn more about The three ways by reading [*The Three Ways: The Principles Underpinning DevOps*](https://itrevolution.com/articles/the-three-ways-principles-underpinning-devops/) by Gene Kim.
+
+:::
+
 ## Pros and cons
 
 The best thing about the three ways is that these principles leverage ownership within the development team to eliminate hostilities between technology disciplines such as frontend or backend development, testing, infrastructure, and site reliability engineering. The three ways also encourage implementing a high level of automation to prevent human errors, speed up the development feedback loops, increase anti-fragility and avoid repetitive tasks. The three ways can mitigate some inherent risks associated with developing technology products, particularly those associated with handovers and operations.

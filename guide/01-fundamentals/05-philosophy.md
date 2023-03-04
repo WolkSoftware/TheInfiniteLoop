@@ -15,8 +15,6 @@ Scrum has done many good things for our industry, but, at this point, it is prob
 
 Many Scrum professionals argue that these failures are due to a lack of understanding or weak leadership, not the methodology itself. However, it is time to acknowledge the mainstream nature of failed implementations of Scrum as an indicator of something fundamentally wrong with Scrum.
 
-The outcomes of the Software industry could have been better if Scrum had been versioned and upgraded. I would love to have something called "Scrum 2023" that introduced changes such as "story points are now deprecated".
-
 The time for a new software development methodology has arrived. As we have already learned,  according to the Standish Group's CHAOS Report, the success rate of software projects increased between 1994 and 2015 but has decreased since 2015. The main reason behind this decreased may be that Scrum is now failing to cope with the increasing complexity of software. Organizations prefer sticking with broken Scrum implementations over trying something new because cultural transformations are risky and expensive, but broken Scrum implementations are making software professionals feel disengaged and miserable. It is time we demand our organizations ditch Scrum.
 
 ### Leadership is not leading the cause
@@ -41,7 +39,7 @@ Seeing technology as a goal (not a tool) is a symptom of a lack of pragmatism.
 The following list contains some of the main actions I believe we must take to solve the problems described in PART I.
 
 ### "Kill" Scrum
-Scrum has helped us to learn a lot, but it is time we move on. We need a new methodology that learns from the scrum ease of adoption. 
+Scrum has helped us to learn a lot, but as we have [already argued](/guide/fundamentals/philosophy/#the-success-of-scrum-is-holding-us-back) it is time we move on.  We need a new methodology that learns from the Scrum ease of adoption.
 
 ### Unify lessons from the last few decades
 We need a new software development methodology that unifies the lessons from the past 30 years. Ideally, the new software development methodology will self-reinforce its own principles:
